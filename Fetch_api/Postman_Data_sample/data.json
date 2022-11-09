@@ -1,0 +1,96 @@
+{
+    "status": "success",
+    "results": 4,
+    "data": {
+        "data": [
+            {
+                "_id": "6344a3948a14335eb4c5956b",
+                "Room_Number": 101,
+                "Name": "Hill view",
+                "Guest_Capacity": 4,
+                "Room_Descriptions": "This room is of 400 sft with Ultra luxurious comfort and well decorated with all modern amenities for the ultimate relaxation of the guests.",
+                "Room_Area": "500 sft",
+                "Rent_Charge": 3500,
+                "Images": [
+                    {
+                        "_id": "6344a3948a14335eb4c5956d",
+                        "Image_URL": "images/sagorkonnaimage1.png"
+                    },
+                    {
+                        "_id": "6344a3948a14335eb4c5956c",
+                        "Image_URL": "images/sagorkonnaimage2.png"
+                    }
+                ],
+                "Reviews": [],
+                "Booking": [],
+                "__v": 0
+            },
+            {
+                "_id": "6344a39c8a14335eb4c5956e",
+                "Room_Number": 102,
+                "Name": "Hill view",
+                "Guest_Capacity": 4,
+                "Room_Descriptions": "This room is of 400 sft with Ultra luxurious comfort and well decorated with all modern amenities for the ultimate relaxation of the guests.",
+                "Room_Area": "500 sft",
+                "Rent_Charge": 3500,
+                "Images": [
+                    {
+                        "_id": "6344a39c8a14335eb4c59570",
+                        "Image_URL": "images/sagorkonnaimage1.png"
+                    },
+                    {
+                        "_id": "6344a39c8a14335eb4c5956f",
+                        "Image_URL": "images/sagorkonnaimage2.png"
+                    }
+                ],
+                "Reviews": [],
+                "Booking": [],
+                "__v": 0
+            },
+            {
+                "_id": "6344a3a48a14335eb4c59571",
+                "Room_Number": 103,
+                "Name": "Hill view",
+                "Guest_Capacity": 4,
+                "Room_Descriptions": "This room is of 400 sft with Ultra luxurious comfort and well decorated with all modern amenities for the ultimate relaxation of the guests.",
+                "Room_Area": "500 sft",
+                "Rent_Charge": 3500,
+                "Images": [
+                    {
+                        "_id": "6344a3a48a14335eb4c59573",
+                        "Image_URL": "images/sagorkonnaimage1.png"
+                    },
+                    {
+                        "_id": "6344a3a48a14335eb4c59572",
+                        "Image_URL": "images/sagorkonnaimage2.png"
+                    }
+                ],
+                "Reviews": [],
+                "Booking": [],
+                "__v": 0
+            },
+            {
+                "_id": "63597889fc8f9e002349114f",
+                "Room_Number": 104,
+                "Name": "Sea view",
+                "Guest_Capacity": 4,
+                "Room_Descriptions": "This room is of 400 sft with Ultra luxurious comfort and well decorated with all modern amenities for the ultimate relaxation of the guests.",
+                "Room_Area": "400 sft",
+                "Rent_Charge": 4000,
+                "Images": [
+                    {
+                        "_id": "63597889fc8f9e0023491151",
+                        "Image_URL": "images/sagorkonnaimage1.png"
+                    },
+                    {
+                        "_id": "63597889fc8f9e0023491150",
+                        "Image_URL": "images/sagorkonnaimage2.png"
+                    }
+                ],
+                "Reviews": [],
+                "Booking": [],
+                "__v": 0
+            }
+        ]
+    }
+}
